@@ -3,8 +3,8 @@ BlackTurbine is a powerful and modular CLI tool designed for scanning, diagnosin
 # 🚀 BlackTurbine - FiveM Server Intelligence Suite
 
 **Version:** 3.1.7  
-**License:** ELITE  
-**Developed by:** [Your Name]
+**License:** Admin  
+**Developed by:** Rasan Fernando
 
 ---
 
@@ -38,7 +38,7 @@ Whether you’re performing ethical pen testing or managing a network of game se
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/BlackTurbine-FiveM-Scanner.git
+git clone https://github.com/RXDarkee/BlackTurbine-FiveM-ScannerPro.git
 cd BlackTurbine-FiveM-Scanner
 pip install -r requirements.txt
 python src/blackturbine.py
