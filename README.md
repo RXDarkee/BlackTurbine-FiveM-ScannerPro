@@ -31,7 +31,7 @@ Whether you’re performing ethical pen testing or managing a network of game se
 
 ## 📸 Screenshot
 
-![BlackTurbine CLI Interface](docs/screenshot.png)
+![BlackTurbine CLI Interface](docs/docs/Screenshot.png)
 
 ---
 
